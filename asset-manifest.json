@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.fd0d9514.css",
+    "main.js": "/memory-game/static/js/main.5b1abdb5.js",
+    "static/media/sasuke.png": "/memory-game/static/media/sasuke.f9c93703c54359b1da8b.png",
+    "static/media/naruto.png": "/memory-game/static/media/naruto.fa2df273788697c9d247.png",
+    "static/media/luffy.png": "/memory-game/static/media/luffy.63dee1d7bc4097305e4b.png",
+    "static/media/light.png": "/memory-game/static/media/light.d72761fa0d932c2b2df1.png",
+    "static/media/goku.jpg": "/memory-game/static/media/goku.40532c6518f176cce0e0.jpg",
+    "static/media/deku.jpeg": "/memory-game/static/media/deku.5a0dd9f49c0eec3e3e92.jpeg",
+    "static/media/tanjiro.jpeg": "/memory-game/static/media/tanjiro.90a6afce44f4488d5c1c.jpeg",
+    "static/media/killua.jpg": "/memory-game/static/media/killua.3c389d601dea5b6fc9f2.jpg",
+    "static/media/gon.jpg": "/memory-game/static/media/gon.d398f007b2003317b35c.jpg",
+    "static/media/itachi.jpg": "/memory-game/static/media/itachi.89a2a45eb1681913f645.jpg",
+    "static/media/eren.jpg": "/memory-game/static/media/eren.35801a0666d810c1e046.jpg",
+    "static/media/L.jpeg": "/memory-game/static/media/L.d2776f205cd51c898b3a.jpeg",
+    "index.html": "/memory-game/index.html",
+    "main.fd0d9514.css.map": "/memory-game/static/css/main.fd0d9514.css.map",
+    "main.5b1abdb5.js.map": "/memory-game/static/js/main.5b1abdb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0d9514.css",
+    "static/js/main.5b1abdb5.js"
+  ]
+}
